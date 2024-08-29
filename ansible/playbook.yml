@@ -1,0 +1,9 @@
+- hosts: all
+  tasks:
+    - name: Pull latest code from git
+      git:
+        repo: 'https://github.com/your-repo-url.git'
+        dest: /var/www/ecommerce-platform
+
+    - name: Build Docker containers
+      command: docker-compose -f /var/www/ecommerce-platform/docker-compose.yml up -d

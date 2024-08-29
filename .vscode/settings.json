@@ -1,0 +1,5 @@
+{
+    "java.project.sourcePaths": [
+        "backend/auth-service/auth/src/main/java/com/ecommerce"
+    ]
+}
