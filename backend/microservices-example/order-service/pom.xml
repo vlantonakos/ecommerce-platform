@@ -7,7 +7,6 @@
         <groupId>com.example</groupId>
         <artifactId>microservices-example</artifactId>
         <version>1.0.0</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>order-service</artifactId>
@@ -18,4 +17,5 @@
             <artifactId>spring-boot-starter-webflux</artifactId>
         </dependency>
     </dependencies>
+
 </project>
