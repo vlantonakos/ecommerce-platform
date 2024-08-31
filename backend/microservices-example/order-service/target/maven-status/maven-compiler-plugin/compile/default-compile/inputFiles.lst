@@ -1,2 +1,6 @@
+C:\Users\anvla\ecommerce-platform\ecommerce-platform\backend\microservices-example\order-service\src\main\java\com\example\orderservice\config\KafkaConfig.java
 C:\Users\anvla\ecommerce-platform\ecommerce-platform\backend\microservices-example\order-service\src\main\java\com\example\orderservice\controller\OrderController.java
+C:\Users\anvla\ecommerce-platform\ecommerce-platform\backend\microservices-example\order-service\src\main\java\com\example\orderservice\model\Order.java
 C:\Users\anvla\ecommerce-platform\ecommerce-platform\backend\microservices-example\order-service\src\main\java\com\example\orderservice\OrderServiceApplication.java
+C:\Users\anvla\ecommerce-platform\ecommerce-platform\backend\microservices-example\order-service\src\main\java\com\example\orderservice\repository\OrderRepository.java
+C:\Users\anvla\ecommerce-platform\ecommerce-platform\backend\microservices-example\order-service\src\main\java\com\example\orderservice\service\OrderService.java
